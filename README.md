@@ -15,7 +15,7 @@
 
 ## Stacks & Technologies
 <div>
-## 🪲💡 knowledge 
+ 🪲💡 knowledge 
 <table> 
 <tbody style="text-align:center">
 <tr>
